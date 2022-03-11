@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         tv1 = (TextView) findViewById(R.id.tv1);
         btn1 = (Button) findViewById(R.id.btn1);
         btn2 = (Button) findViewById(R.id.btn2);
+        btn3 = (Button) findViewById(R.id.btn3);
         cl1 = (ConstraintLayout) findViewById(R.id.cl1);
 
         btn1.setOnClickListener((View.OnClickListener) this);
