@@ -15,14 +15,14 @@
     <fragment
         android:id="@+id/fragment1"
         android:name="com.example.fragments.fragment1"
-        android:layout_width="100px"
+        android:layout_width="600px"
         android:layout_height="match_parent"
         />
 
     <fragment
         android:id="@+id/fragment2"
         android:name="com.example.fragments.fragment2"
-        android:layout_width="100px"
+        android:layout_width="550px"
         android:layout_height="match_parent"
         />
 

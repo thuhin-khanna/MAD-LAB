@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="FRAGMENT1"
+        android:text="Student Details\n\nName : Thuhin\nAge : 20\nAddr : 6, 2nd Street"
         android:textSize="34sp" />
 
 </FrameLayout>
